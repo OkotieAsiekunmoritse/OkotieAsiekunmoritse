@@ -7,7 +7,7 @@
 - ### 🌱 Currently strengthening my skills with practices on 
 - ☁️ Cloud infrastructures ( Azure / AWS )
 - 📖 Infrastructure as Code with Terraform
-- ![image](https://github.com/user-attachments/assets/2636e553-4f88-4a35-9e25-d08e5d39ced1) 🐳Docker & Containerization
+- 🐳Docker & Containerization
 - CI/CD basics
 - Version Control and Github
 
