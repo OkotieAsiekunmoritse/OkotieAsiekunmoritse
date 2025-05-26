@@ -1,20 +1,21 @@
 - ## 👋 Hi, I’m OkotieAsiekunmoritse
-- I’m interested in personal growth and development, software development in general, amongst others. 
-- 🌱 I’m a Cloud and Devops Engineer building and managing cloud infrastructures using modern tools and practices.
+- I’m interested in personal growth and development, software development in general, amongst others.
+- I’m a Cloud and Devops Engineer building and managing cloud infrastructures using modern tools and practices.
   
 ---
 
 - ### 🌱 Currently strengthening my skills with practices on 
 - ☁️ Cloud infrastructures ( Azure / AWS )
 - 📖 Infrastructure as Code with Terraform
-- 🐳Docker & Containerization
-- CI/CD basics
+- 🐳 Docker & Containerization
+- ♾️ CI/CD basics
 - Version Control and Github
 
 ---
 
 - ### 🛠️ Tools Currently Exploring
-- **Azure**: Resources, IAM, Blob, Container, VMs,
+- **Azure**: Resources, IAM, Blob, Container, VMs, MFA
+- **AWS**: IAM, PostgreSQL, RDB, DynamoDB, S3
 - **Github**: Version control and workflows
 - **Docker**: Building and running containers  
 
@@ -22,7 +23,8 @@
 
 - ### 🔧 Practiced Projects
 - Hosting a static website on blob
-- Writing scripts on bash and powershell for creating Resource groups, Virtual Machines, Virtual Networks, Subnets, Security Groups, Linux Images, Windows Images
+- Writing scripts on bash and powershell for creating Resource groups, Virtual Machines, Virtual Networks, Subnets, Security Groups, Linux Images, Windows Images for Linux and windows machines on Azure
+- Writing scripts on bash for creating EC2 instances, VMs, Subnets, Security Groups, Linux Images for Linux maxhines on AWS
 - Pushing and pulling sample projects on my local environment to my github and vice versa
 
 ---
