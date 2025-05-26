@@ -6,7 +6,7 @@
 
  ### 🌱 Currently strengthening my skills with practices on 
 - ☁️ Cloud infrastructures ( Azure / AWS )
-- 📖 Bash script writing for powershell and git
+- 📖 Bash script writing for powershell and gitbash
 - 📖 Infrastructure as Code with Terraform
 - 🐳 Docker & Containerization
 - ☸️ Kubernetes
