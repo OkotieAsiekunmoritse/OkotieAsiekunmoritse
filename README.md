@@ -1,4 +1,4 @@
-- ## 👋 Hi, I’m OkotieAsiekunmoritse
+- ## 👋 Hi, I’m Okotie Asiekunmoritse
 - I’m interested in personal growth and development, software development in general, amongst others.
 - I’m a Cloud and Devops Engineer building and managing cloud infrastructures using modern tools and practices.
   
