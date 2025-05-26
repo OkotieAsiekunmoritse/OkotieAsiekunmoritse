@@ -8,7 +8,7 @@
 - ☁️ Cloud infrastructures ( Azure / AWS )
 - 📖 Infrastructure as Code with Terraform
 - 🐳 Docker & Containerization
-- ☸️Kubernetes
+- ☸️ Kubernetes
 - ♾️ CI/CD basics
 - Version Control and Github
 
