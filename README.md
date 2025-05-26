@@ -10,7 +10,7 @@
 - 🐳 Docker & Containerization
 - ☸️ Kubernetes
 - ♾️ CI/CD basics
-- Version Control and Github
+- Version Control
 
 ---
 
