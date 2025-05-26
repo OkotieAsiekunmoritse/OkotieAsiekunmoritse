@@ -1,8 +1,46 @@
-- 👋 Hi, I’m OkotieAsiekunmoritse
+- ## 👋 Hi, I’m OkotieAsiekunmoritse
 - I’m interested in personal growth and development, software development in general, amongst others. 
-- 🌱 I’m a Cloud Engineer 
-- 💞️ I’m looking to collaborate on Open Source and also to build new relationships in the process that will push me to grow
-- 📫  You can reach me here on github 
+- 🌱 I’m a Cloud and Devops Engineer building and managing cloud infrastructures using modern tools and practices.
+  
+---
+
+- ### 🌱 Currently strengthening my skills with practices on 
+- ☁️ Cloud infrastructures ( Azure / AWS )
+- 📖 Infrastructure as Code with Terraform
+- ![image](https://github.com/user-attachments/assets/2636e553-4f88-4a35-9e25-d08e5d39ced1) 🐳Docker & Containerization
+- CI/CD basics
+- Version Control and Github
+
+---
+
+- ### 🛠️ Tools Currently Exploring
+- **Azure**: Resources, IAM, Blob, Container, VMs,
+- **Github**: Version control and workflows
+- **Docker**: Building and running containers  
+
+  ---
+
+- ### 🔧 Practiced Projects
+- Hosting a static website on blob
+- Writing scripts on bash and powershell for creating Resource groups, Virtual Machines, Virtual Networks, Subnets, Security Groups, Linux Images, Windows Images
+- Pushing and pulling sample projects on my local environment to my github and vice versa
+
+---
+
+- ### 🎯 My Goals
+- Build and deploy personal projects in the cloud
+- Gain hands-on Devops experience
+- Learn to work with GCP for devops practices
+- Looking to collaborate on Open Source and also to build new relationships in the process that will push me to grow
+
+---
+
+- ### 📫 Connect with me
+- You can reach me here on github
+- You can reach me on LinkedIn(https://www.linkedin.com/in/okotie-asiekunmoritse-23b134145)
+  
+- ### 🌠 Fun Fact
+ I like to break things so I can try to figure out the possible ways to fix them, thereby learning by doing.
 
 <!---
 OkotieAsiekunmoritse/OkotieAsiekunmoritse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
