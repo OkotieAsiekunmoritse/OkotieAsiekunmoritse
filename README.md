@@ -41,9 +41,13 @@
 - ### 📫 Connect with me
 - You can reach me on LinkedIn(https://www.linkedin.com/in/okotie-asiekunmoritse-23b134145)
 - You can reach me here on github
+
+---
   
 - ### 🌠 Fun Fact
  I like to break things so I can try to figure out the possible ways to fix them, thereby learning by doing.
+
+---
 
 <!---
 OkotieAsiekunmoritse/OkotieAsiekunmoritse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
